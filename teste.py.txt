@@ -1,0 +1,16 @@
+"Apredendo github"
+
+
+idade = 20
+membro = True
+
+if idade >= 18:
+    if membro:
+        print("Acesso completo.")
+    else:
+        print("Acesso restrito a membros.")
+else:
+    print("Acesso negado por idade.")
+
+
+Tenha um bom trabalho
