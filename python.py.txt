@@ -3,5 +3,5 @@ Meu nome é Bruno Fernando
 "estudando python.py
 	Aprendendo github
 
-Apredendo a mandar projetos para o
+Apredendo a mandar projetos para 
 	Github
