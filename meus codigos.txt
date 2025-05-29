@@ -2,4 +2,4 @@ Olá meu nome é Bruno
 Olá eu sou uma nova linha
 Olá sou novo studando python
 Olá eu adoro estudar python
-Olá Apredendo a mandar projetos para o github
+Olá Apredendo  mandar arquivos e  projetos para o github
