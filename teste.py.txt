@@ -1,16 +1,16 @@
-"Apredendo github"
+idade =  16
+tem_carteira = "False"
 
+if idade>=  16 and tem_carteira:
+  print("Ele não pode dirigir")
 
-idade = 20
-membro = True
-
-if idade >= 18:
-    if membro:
-        print("Acesso completo.")
-    else:
-        print("Acesso restrito a membros.")
 else:
-    print("Acesso negado por idade.")
+    print("Ele  pode dirigir")
 
+idade = 18
 
-Tenha um bom trabalho
+if idade>= 18:
+  print("Ele e de maior")
+  
+else:
+  print("Ele e de menor")
