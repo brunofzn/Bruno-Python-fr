@@ -4,6 +4,7 @@ Olá, me chamo Bruno-Python-fr
 
  - 🤔 Estou procurando ajuda com python
 
+Uso Visual Studio code
 
 
 
