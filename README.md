@@ -1,8 +1,8 @@
 Olá, me chamo Bruno-Python-fr
 
-- 🌱 Atualmente estou aprendendo python
+- 🌱 Atualmente comecei a estudar javascript
 
- - 🤔 Estou procurando ajuda com python
+ - 🤔 Estou procurando ajuda com javascript
 
 Uso Visual Studio code
 
